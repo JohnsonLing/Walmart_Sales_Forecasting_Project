@@ -1,6 +1,7 @@
 # DSO 522 Time Series Project
 
-- This is time series analysis project for DSO 522 Fall 2022 Group 8.
+- This is a time series analysis project for DSO 522 Fall 2022 Group 8. We conduted times series analysis on Walmart Sales Data using R.
+
 - Group members: Zhiyu Zhang, Pizheng Zhang, Zihan Ling, Freda Lin
 
 
